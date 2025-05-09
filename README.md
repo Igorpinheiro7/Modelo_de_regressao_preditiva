@@ -2,7 +2,7 @@
 Modelo de regressão preditiva de Vendas
 
 # Cenário
-Uma sorveteria chamada Gelato Mágico, localizada em uma cidade litorânea. A equipe de dados percebeu que a quantidade de sorvetes vendidos diariamente tem uma forte correlação com a temperatura ambiente. No entanto, sem um planejamento adequado, você pode acabar produzindo mais sorvetes do que o necessário e ter prejuízos com desperdícios ou, ao contrário, produzir menos e perder vendas.
+Uma sorveteria chamada Gelato Mágico, localizada em uma cidade litorânea. Teve uma reunião para discutir a respeito das vendas e perda de produtos, a equipe de dados percebeu que a quantidade de sorvetes vendidos diariamente tem uma forte correlação com a temperatura ambiente. No entanto, sem um planejamento adequado, você pode acabar produzindo mais sorvetes do que o necessário e ter prejuízos com desperdícios ou, ao contrário, produzir menos e perder vendas.
 
 Para solucionar esse problema, a equipe de dados sugeriu usar Machine Learning para prever quantos sorvetes serão vendidos com base na temperatura. Com esse modelo, será possível antecipar a demanda e planejar a produção de maneira eficiente.
 
