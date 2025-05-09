@@ -1,6 +1,17 @@
 # Modelo_de_regressao_preditiva
 Modelo de regressão preditiva de Vendas
 
+
+
+![Image](https://github.com/user-attachments/assets/3decc000-178d-43b8-bc37-d418ca59a12c)
+
+
+
+
+
+
+
+
 # Cenário
 Uma sorveteria chamada Gelato Mágico, localizada em uma cidade litorânea. Teve uma reunião para discutir a respeito das vendas e perda de produtos, a equipe de dados percebeu que a quantidade de sorvetes vendidos diariamente tem uma forte correlação com a temperatura ambiente. No entanto, sem um planejamento adequado, você pode acabar produzindo mais sorvetes do que o necessário e ter prejuízos com desperdícios ou, ao contrário, produzir menos e perder vendas.
 
