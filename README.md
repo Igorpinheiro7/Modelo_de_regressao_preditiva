@@ -19,6 +19,18 @@ O objetivo deste projeto é desenvolver um modelo de regressão preditiva que pe
 
 ✅ Criar um pipeline estruturado para treinar e testar o modelo, garantindo reprodutibilidade.
 
+# Modelos
 
+![Image](https://github.com/user-attachments/assets/19624e81-190f-44aa-9f98-b960d65cae50)
+
+
+![Image](https://github.com/user-attachments/assets/768a5fa6-85ef-4d0c-a01b-74b0a46c2332)
+
+
+![Image](https://github.com/user-attachments/assets/50584808-18d2-4545-9e2b-a30d58810d7e)
+
+# Conclusão
+
+Através dos dados que vizualizamos nas imagens acima, podemos ver a quantidade de Sorvete que vendemos baseado na temperatura do dia, temos umas noção de quantos sorvetes venderemos, a partir desse modelo de machine learning podemos prever qual a estimativa de venda da Gelato mágico baseada na temperatura diária, com essa informação, agora reduzirá consideravelmente o desperdicío dos produtos.
 
 
