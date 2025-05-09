@@ -29,9 +29,19 @@ O objetivo deste projeto é desenvolver um modelo de regressão preditiva que pe
 
 ![Image](https://github.com/user-attachments/assets/50584808-18d2-4545-9e2b-a30d58810d7e)
 
-# Residual
+# Métricas
+
+![Image](https://github.com/user-attachments/assets/47086ca4-f922-412c-8292-91477c1e8945)
+
+![Image](https://github.com/user-attachments/assets/541df991-b67f-44b7-ba44-d78ad5a9e895)
+
+# Predicted
 
 ![Image](https://github.com/user-attachments/assets/5020a7f8-1bb5-4358-bf8c-8454e1e84887)
+
+# Residual
+
+![Image](https://github.com/user-attachments/assets/88637522-e83f-47ab-af78-71e909990851)
 
 # Conclusão
 
