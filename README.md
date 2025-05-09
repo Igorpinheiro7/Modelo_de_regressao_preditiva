@@ -1,7 +1,7 @@
 # Modelo_de_regressao_preditiva
 Modelo de regressão preditiva de Vendas
 
-
+# Gelato Mágico
 
 ![Image](https://github.com/user-attachments/assets/3decc000-178d-43b8-bc37-d418ca59a12c)
 
@@ -56,6 +56,6 @@ O objetivo deste projeto é desenvolver um modelo de regressão preditiva que pe
 
 # Conclusão
 
-Através dos dados que vizualizamos nas imagens acima, podemos ver a quantidade de Sorvete que vendemos baseado na temperatura do dia, temos umas noção de quantos sorvetes venderemos, a partir desse modelo de machine learning podemos prever qual a estimativa de venda da Gelato mágico baseada na temperatura diária, com essa informação, agora reduzirá consideravelmente o desperdicío dos produtos.
+Através dos dados que vizualizamos nas imagens acima, podemos ver a quantidade de Sorvete que vendemos baseado na temperatura do dia, temos umas noção de quantos sorvetes venderemos, a partir desse modelo de machine learning podemos prever qual a estimativa de venda da Gelato mágico baseada na temperatura diária, com essa informação, agora reduzirá consideravelmente o desperdicio dos produtos.
 
 
