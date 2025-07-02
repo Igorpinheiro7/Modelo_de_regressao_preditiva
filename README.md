@@ -54,11 +54,13 @@ Raiz do Erro Quadrático Médio (RMSE)
 
 ![Image](https://github.com/user-attachments/assets/541df991-b67f-44b7-ba44-d78ad5a9e895)
 
-# Predicted
+# Previsões e Resíduos
+
+Gráfico de Valores Preditos
 
 ![Image](https://github.com/user-attachments/assets/5020a7f8-1bb5-4358-bf8c-8454e1e84887)
 
-# Residual
+Análise de Resíduos
 
 ![Image](https://github.com/user-attachments/assets/88637522-e83f-47ab-af78-71e909990851)
 
