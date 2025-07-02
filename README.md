@@ -1,4 +1,4 @@
-# Modelo_de_regressao_preditiva
+# Predição de Vendas na Gelato Mágico
 Modelo de regressão preditiva de Vendas
 
 # Gelato Mágico
@@ -12,10 +12,10 @@ Modelo de regressão preditiva de Vendas
 
 
 
-# Cenário
-Uma sorveteria chamada Gelato Mágico, localizada em uma cidade litorânea. Teve uma reunião para discutir a respeito das vendas e perda de produtos, a equipe de dados percebeu que a quantidade de sorvetes vendidos diariamente tem uma forte correlação com a temperatura ambiente. No entanto, sem um planejamento adequado, você pode acabar produzindo mais sorvetes do que o necessário e ter prejuízos com desperdícios ou, ao contrário, produzir menos e perder vendas.
+# Sobre o Projeto
+A Gelato Mágico, uma sorveteria em uma cidade litorânea, enfrentava um desafio comum: prever a demanda diária de sorvetes para otimizar a produção e reduzir perdas. A equipe de dados identificou uma forte correlação entre a quantidade de sorvetes vendidos e a temperatura ambiente.
 
-Para solucionar esse problema, a equipe de dados sugeriu usar Machine Learning para prever quantos sorvetes serão vendidos com base na temperatura. Com esse modelo, será possível antecipar a demanda e planejar a produção de maneira eficiente.
+Para solucionar esse problema, desenvolvemos um modelo de regressão preditiva usando Machine Learning. Nosso objetivo é permitir que a Gelato Mágico antecipe suas vendas com base na temperatura, garantindo um planejamento de produção eficiente e minimizando desperdícios.
 
 
 # Objetivo
