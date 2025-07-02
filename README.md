@@ -30,7 +30,8 @@ Este projeto visa construir uma solução robusta para a previsão de vendas, fo
 
 ✅ Pipeline Estruturado: Criar um pipeline de treinamento e teste bem definido para garantir a reprodutibilidade e escalabilidade do modelo.
 
-# Modelos
+# Resultados do Modelo
+Avaliamos a performance do nosso modelo através de diversas visualizações e métricas.
 
 ![Image](https://github.com/user-attachments/assets/19624e81-190f-44aa-9f98-b960d65cae50)
 
