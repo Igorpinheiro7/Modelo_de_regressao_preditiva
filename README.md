@@ -66,6 +66,6 @@ Análise de Resíduos
 
 # Conclusão
 
-Através dos dados que vizualizamos nas imagens acima, podemos ver a quantidade de Sorvete que vendemos baseado na temperatura do dia, temos umas noção de quantos sorvetes venderemos, a partir desse modelo de machine learning podemos prever qual a estimativa de venda da Gelato mágico baseada na temperatura diária, com essa informação, agora reduzirá consideravelmente o desperdicio dos produtos.
+Com base nas visualizações e métricas apresentadas, o modelo de Machine Learning desenvolvido é capaz de prever as vendas de sorvete com alta precisão, considerando a temperatura do dia. Essa capacidade preditiva oferece à Gelato Mágico uma ferramenta poderosa para otimizar sua produção, reduzir significativamente o desperdício de produtos e, consequentemente, melhorar sua rentabilidade.
 
 
