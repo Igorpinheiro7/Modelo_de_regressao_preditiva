@@ -41,7 +41,14 @@ Avaliamos a performance do nosso modelo através de diversas visualizações e m
 
 ![Image](https://github.com/user-attachments/assets/50584808-18d2-4545-9e2b-a30d58810d7e)
 
-# Métricas
+# Performance e Métricas
+
+Gráfico de Vendas Reais vs. Preditas
+
+Erro Absoluto Médio (MAE)
+
+Raiz do Erro Quadrático Médio (RMSE)
+
 
 ![Image](https://github.com/user-attachments/assets/47086ca4-f922-412c-8292-91477c1e8945)
 
