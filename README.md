@@ -20,15 +20,15 @@ Para solucionar esse problema, desenvolvemos um modelo de regressão preditiva u
 
 # Objetivo
 
-O objetivo deste projeto é desenvolver um modelo de regressão preditiva que permita: 
+Este projeto visa construir uma solução robusta para a previsão de vendas, focando em: 
 
-✅ Treinar um modelo de Machine Learning para prever as vendas de sorvete com base na temperatura do dia.
+✅ Treinamento do Modelo: Desenvolver um modelo de Machine Learning capaz de prever as vendas de sorvete com base na temperatura diária.
 
-✅ Registrar e gerenciar o modelo usando o MLflow.
+✅ Gerenciamento com MLflow: Registrar e gerenciar o ciclo de vida do modelo usando MLflow, assegurando rastreabilidade e reprodutibilidade.
 
-✅ Implementar o modelo para previsões em tempo real em um ambiente de cloud computing.
+✅ Implementação em Nuvem: Preparar o modelo para previsões em tempo real em um ambiente de cloud computing.
 
-✅ Criar um pipeline estruturado para treinar e testar o modelo, garantindo reprodutibilidade.
+✅ Pipeline Estruturado: Criar um pipeline de treinamento e teste bem definido para garantir a reprodutibilidade e escalabilidade do modelo.
 
 # Modelos
 
