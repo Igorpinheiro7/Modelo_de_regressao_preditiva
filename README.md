@@ -65,7 +65,7 @@ Análise de Resíduos
 
 ![Image](https://github.com/user-attachments/assets/88637522-e83f-47ab-af78-71e909990851)
 
-# Conclusão
+# 🎉 Conclusão
 
 Com base nas visualizações e métricas apresentadas, o modelo de Machine Learning desenvolvido é capaz de prever as vendas de sorvete com alta precisão, considerando a temperatura do dia. Essa capacidade preditiva oferece à Gelato Mágico uma ferramenta poderosa para otimizar sua produção, reduzir significativamente o desperdício de produtos e, consequentemente, melhorar sua rentabilidade.
 
