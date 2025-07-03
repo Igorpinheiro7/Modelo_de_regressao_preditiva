@@ -1,7 +1,8 @@
-# Predição de Vendas na Gelato Mágico
+# 🍦 Predição de Vendas na Gelato Mágico
 Modelo de regressão preditiva de Vendas
 
-# Gelato Mágico
+
+# 🍧 Gelato Mágico
 
 ![Image](https://github.com/user-attachments/assets/3decc000-178d-43b8-bc37-d418ca59a12c)
 
