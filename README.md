@@ -1,5 +1,5 @@
 # 🍦 Predição de Vendas na Gelato Mágico
-Modelo de regressão preditiva de Vendas
+Modelo de regressão preditiva de Venda
 
 
 # 🍧 Gelato Mágico
